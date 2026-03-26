@@ -1,0 +1,70 @@
+Sharon P Shajan
+sharonpshajan@gmail.com • +91 9633070534 • Thrissur, Kerala • linkedin.com/in/sharonpshajan •
+github.com/sharon504
+PROFILE
+Web and ML Developer experienced in building scalable, enterprise-grade applications using TypeScript,
+Python, andGolang. Adeptatfull-stackdevelopment, integratingrobustRESTAPIswithReactinterfaces,
+and leveraging AI models for complex problem-solving. Proven ability to take ownership of features from
+conception to deployment in fast-paced environments.
+PROFESSIONAL EXPERIENCE
+Backend Team Lead (ERP System) Live Production
+Rehabilitation Plantation Limited (Government Enterprise)
+• Building high-availability ERP system using NestJS (TypeScript) and PostgreSQL to manage finan-
+cial, HR, and inventory modules for a large-scale enterprise client.
+• Designing idempotent APIs to handle critical financial transactions, ensuring data consistency across
+distributed modules.
+• Established a rigorous testing culture by implementing End-to-End (E2E) testing with Supertest and
+Vitest to prevent regression in critical flows.
+Backend Team Lead
+PgBee
+• Spearheading the architecture for a hostel discovery platform using Node.js and TypeScript, scaling the
+product infrastructure to serve a growing user base.
+• Optimized PostgreSQL database performance to handle complex search queries and property filtering,
+ensuring rapid response times for large datasets.
+• Managed the integration with React client-side applications, establishing type-safe API communication
+and robust error handling standards.
+Full Stack Developer Intern Jan 2025 – Present
+CAFMADS Agency, College of Engineering Trivandrum
+• Developing a centralized full-stack Faculty Repository System handling data for 500+ users, utilizing
+NestJS microservices and React UI components.
+• Implementing Role-Based Access Control (RBAC) and secure authentication middleware to protect
+sensitive user data.
+• Writing unit tests using Vitest to ensure the reliability of core business logic and data validation layers.
+Backend Developer Intern Sep 2024 – Dec 2024
+Oronium
+• Engineered high-performance REST APIs using NoSQL databases to support high-throughput data
+operations.• Integrated third-party payment gateways and authentication services, ensuring secure payload handling
+and error resilience.
+• Conducted load testing and performance profiling, identifying bottlenecks and implementing cloud
+caching strategies.
+KEY PROJECTS
+Vitalis – AI Wellness Agent for Elderly Care | Python, TypeScript 1st Prize, CodeReCet 2.0
+• Developed the full-stack infrastructure for a voice-based AI agent using Python, handling real-time data
+streams and LLM integration.
+• Designed an event-driven architecture to process health alerts instantaneously, mimicking enterprise-
+grade automated workflows.
+Blue Collar Connect Platform | Python, ML 3rd Prize National, UST D3code
+• Engineered a job-matching platform using Python and predictive ML models (Random Forest), pro-
+cessing complex user datasets to recommend optimal job matches.
+• Optimized database interactions to handle concurrent search requests from a distributed user base.
+High-Performance HTTP Server from Scratch | Golang, Systems Programming Self-Initiated
+• Built a concurrent HTTP/1.1 server purely in Golang using the ‘net‘ package (TCP sockets), bypassing
+standard HTTP libraries to understand low-level networking.
+• Engineered a Goroutine pool to handle thousands of concurrent connections efficiently, ensuring non-
+blocking I/O operations.
+TECHNICAL SKILLS
+Languages Golang (Go), Python, Java, TypeScript, JavaScript, SQL, C++
+Full-Stack & Web React, NestJS, Node.js, Express.js, Microservices, RESTful APIs, gRPC,
+WebSockets
+Testing & QA Jest, Supertest, Vitest, PyTest, Postman, Load Testing
+Databases & Infra PostgreSQL, MongoDB, Redis, Docker, CI/CD Pipelines, Linux
+Core Competencies Concurrency, TCP/IP Networking, System Design, Data Structures, Git
+EDUCATION
+B.Tech, Computer Science and Engineering Expected May 2027
+College of Engineering Trivandrum CGPA: 8.63 / 10.0
+• Relevant Coursework: Object Oriented Programming (Java), Distributed Systems, Computer Net-
+works (TCP/IP), Database Management Systems, Operating Systems, Data Structures & Algorithms.
+HONORS & ACHIEVEMENTS
+• 1st Prize: CodeReCet 2.0 National Hackathon (2025)
+• 3rd Prize (National): UST D3CODE Hackathon (2024)
+• 1st Prize: D-Solve Hackathon (2024)
